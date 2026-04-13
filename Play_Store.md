@@ -1,10 +1,10 @@
 ## 📜 Privacy Policy
 
-**Hello History** is a free app developed by Sentix Apps. This SERVICE is provided by Sentix Apps at no cost and is intended for use as is.
+**History Talk** is a free app developed by Sentix Apps. This SERVICE is provided by Sentix Apps at no cost and is intended for use as is.
 
 ### Information Collection and Use
 
-Hello History does not collect any **personal information** directly.
+History Talk does not collect any **personal information** directly.
 
 However, third-party services integrated into the app may collect information used to identify you. These services include:
 
@@ -36,4 +36,4 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 
 If you have any questions or suggestions about our Privacy Policy, please contact us at:
 
-📧 **Hello History Support Email:** startaitech@gmail.com
+📧 **History Talk Support Email:** startaitech@gmail.com
