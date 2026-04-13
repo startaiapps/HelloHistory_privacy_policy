@@ -1,6 +1,6 @@
 ## 📜 Privacy Policy
 
-**Hello History** is a free app developed by StartAi Apps. This SERVICE is provided by StartAi Apps at no cost and is intended for use as is.
+**Hello History** is a free app developed by Sentix Apps. This SERVICE is provided by Sentix Apps at no cost and is intended for use as is.
 
 ### Information Collection and Use
 
